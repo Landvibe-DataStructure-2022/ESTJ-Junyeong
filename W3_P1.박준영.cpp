@@ -56,7 +56,6 @@ public:
 		}
 		else {
 			return array[size-1];
-			array[size - 1]=0;
 			size--;
 		}
 
